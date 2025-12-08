@@ -2,23 +2,6 @@ let text = document.getElementById('text');
 let btn = document.getElementById('btn');
 let ul = document.getElementById('ul')
 
-
-// Without Condition 
-
-// btn.addEventListener('click', function(){
-//     let inputValue = text.value;
-//         ul.innerHTML += `<li>${inputValue} <button onclick="edit(this)" class="edit">Edit</button> <button onclick="del(this)" class="delete">Delete</button> </li>`;
-
-//         console.log(inputValue);
-
-//         text.value = ""
-
-// })
-
-
-
-
-
 // Condition  
 btn.addEventListener('click', function(){
     let inputValue = text.value;
@@ -33,14 +16,10 @@ btn.addEventListener('click', function(){
         }
 })
 
-
-
-
     // Remove List
     function del(e) {
         e.parentElement.remove();
     }
-
 
     // Edit List 
     function edit(e) {
