@@ -12,11 +12,3 @@
 📱 Responsive UI
 
 🌈 Simple & clean design
-
-🛠️ Tech Used:
-
-HTML
-
-CSS
-
-JavaScript
