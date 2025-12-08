@@ -1,6 +1,22 @@
 # Todo-list
-HTML – structure
+🚀 Features:
 
-CSS – styling
+➕ Add new tasks
 
-JavaScript – functionality & DOM manipulation
+✔️ Mark tasks as completed
+
+❌ Delete tasks
+
+💾 Save tasks in localStorage
+
+📱 Responsive UI
+
+🌈 Simple & clean design
+
+🛠️ Tech Used:
+
+HTML
+
+CSS
+
+JavaScript
