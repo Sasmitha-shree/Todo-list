@@ -1,5 +1,5 @@
-# Todo-list
-
+Todo-list
+---
 ## Project Overview:
 The **Todo Practice App** is a simple checklist application built using **HTML, CSS, and JavaScript**.  
 It allows users to add tasks to a list and manage daily activities easily.
